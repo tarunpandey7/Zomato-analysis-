@@ -1,2 +1,14 @@
 # Zomato-analysis-
 Zomato analysis project explores global restaurant data using Excel, Power BI, Tableau, and SQL. We cleaned the dataset, built dashboards, and identified trends in ratings, cuisines, and customer behavior. The project highlights key insights to improve data quality, user experience, and decision-making.
+# Detailed-Description 
+The Zomato Analysis Project focuses on examining and interpreting large-scale restaurant data collected from multiple countries, cities, and cuisine types. The main objective of the project is to understand customer preferences, restaurant performance, and rating patterns, while also identifying the major factors that influence user satisfaction on the Zomato platform. By using four analytical tools—Excel, Power BI, Tableau, and SQL—we explored the dataset from different angles to derive meaningful, data-driven insights.
+
+The project begins with data cleaning and preparation. Zomato’s raw dataset contains thousands of entries, multiple cuisine categories, inconsistent naming conventions, missing values, and duplicate information. Using Excel, we standardized data fields, removed errors, created pivot tables, and built the first level of insights. This step helped us understand the distribution of restaurants across cities, rating ranges, votes, and cost categories.
+
+In the Power BI phase, we focused on interactive visualization and advanced analytics. We created KPIs such as the total number of restaurants, average rating, total votes, and number of cities covered. Visuals such as bar charts, slicers, and country-wise comparison charts helped us identify top-voted restaurants, highest-rated cuisines, and countries with the best customer feedback. Power BI enabled a dynamic and user-friendly way to explore trends like seasonal popularity, cuisine performance, and rating patterns.
+
+Tableau was used to create visually appealing dashboards that provided deep insights into restaurant distribution, cost comparisons, and city-wise rating patterns. It helped highlight trends such as which cuisines perform best in specific regions and how restaurant ratings vary across countries.
+
+SQL was used to query the dataset, extract specific insights, and validate the data. We created fields for rating buckets, price buckets, and time-based categories. SQL helped ensure accuracy by filtering, joining tables, and verifying counts.
+
+Overall, the Zomato Analysis Project demonstrates how data analytics can transform raw information into actionable insights. The project highlights issues such as inconsistent data, varying cuisine naming, rating reliability, and performance differences across countries. These findings can help Zomato improve its platform by enhancing data quality, optimizing restaurant listings, and improving customer experience. The project also strengthens our skills in data cleaning, visualization, and business analytics.
